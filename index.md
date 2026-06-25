@@ -5,141 +5,107 @@ title: Future CV - 안하람
 
 # Future CV - 안하람
 
-> 이 문서는 실제 이력서 PDF를 참고하되, **내일 졸업한다고 가정한 미래형 가상 이력서**입니다.
-> 일부 인턴, 수상, 미래 목표는 과제 목적에 맞춰 상상하여 작성했습니다.
+> 이 문서는 **내일 졸업한다고 가정하고 작성한 미래형 가상 이력서**입니다.
+> 앞으로 성장하고 싶은 모습을 Markdown으로 정리한 과제용 가상 문서입니다.
 
 ## Contact
 
 - **Name:** 안하람
 - **Email:** [bluesky6562@gmail.com](mailto:bluesky6562@gmail.com)
 - **GitHub:** [github.com/ahnharam](https://github.com/ahnharam)
-- **Portfolio Link:** [github.com/ahnharam/MyLib](https://github.com/ahnharam/MyLib)
+- **Portfolio:** [github.com/ahnharam/future-cv](https://github.com/ahnharam/future-cv)
 
 ## Profile
 
-WPF 기반 PC 애플리케이션, 서버 통신, Vue.js 프론트엔드, Spring/JSP 기반 웹 서비스 개발 경험을 가진 소프트웨어 개발자입니다.
-시리얼 통신, REST API, WCF, RTSP/RTP, SMTP, 카카오 API, 결제 모듈 연동처럼 실제 운영 서비스에서 필요한 기능을 구현해 왔습니다.
+저는 사용자와 운영자가 모두 편하게 사용할 수 있는 서비스를 만드는 **풀스택 소프트웨어 엔지니어**를 희망합니다.
+내일 졸업한다면, 저는 웹 프론트엔드와 백엔드 API를 함께 이해하고, 복잡한 업무 흐름을 단순하고 안정적인 시스템으로 바꿀 수 있는 개발자로 성장해 있고 싶습니다.
 
-내일 졸업한다면 저는 **웹 서비스와 데스크톱 애플리케이션을 모두 이해하는 풀스택 소프트웨어 엔지니어**로 성장해 있고 싶습니다.
-특히 운영자가 오래 쓰는 시스템을 안정적으로 개선하고, 복잡한 업무 흐름을 명확한 데이터 구조와 API로 정리하는 개발자가 되는 것을 목표로 합니다.
+관심 있는 직무는 다음과 같습니다.
 
-희망 직무는 다음과 같습니다.
-
-- 풀스택 소프트웨어 엔지니어
-- 업무 시스템 및 플랫폼 백엔드 개발자
-- WPF/Vue.js 기반 클라이언트 애플리케이션 개발자
+- 풀스택 웹 서비스 개발자
+- 백엔드 API 및 데이터베이스 설계자
+- 오픈소스 협업 경험을 갖춘 소프트웨어 엔지니어
 
 ## Education
 
 ### 광운대학교
 
 - **Major:** 정보콘텐츠학과
-- **Period:** 2023.03 - Future CV 기준 졸업 예정
-- **Focus Areas:**
-  - 오픈소스소프트웨어
-  - 웹 서비스 개발
-  - 데이터베이스 설계
-  - 소프트웨어 공학
-
-### 세명컴퓨터고등학교
-
-- **Major:** 스마트디바이스과
-- **Period:** 2016.03 - 2019.01
+- **Status:** Future CV 기준 졸업 예정
+- **Learning Goals:**
+  - 오픈소스소프트웨어 개발과 협업 방식 이해
+  - 웹 서비스 구조와 REST API 설계 학습
+  - 데이터베이스 모델링과 서비스 운영 흐름 학습
+  - GitHub 기반 문서화와 프로젝트 관리 경험 축적
 
 ## Internship Experience
 
-### Future Full-Stack Engineering Intern - Sports Service Platform Team
+### Future Full-Stack Developer Intern - Cloud Service Studio
 
 - **Period:** 2026.01 - 2026.06
-- Vue.js와 Spring 기반 참가신청 플랫폼을 개선하는 현장실습형 인턴십을 수행했다고 가정했습니다.
-- 참가 유형, 장비 정보, 결제 여부처럼 종목마다 달라지는 입력 흐름을 공통 컴포넌트와 설정 기반 구조로 정리했습니다.
-- 운영자가 직접 안내 문구와 필수 입력 항목을 관리할 수 있도록 관리자 화면과 API 설계를 개선했습니다.
+- Vue.js 기반 관리자 화면과 Node.js 기반 API 서버를 함께 개발하는 인턴십을 수행했다고 가정했습니다.
+- 사용자의 입력 흐름을 분석해 화면 컴포넌트를 분리하고 재사용 가능한 구조로 개선했습니다.
+- API 응답 형식과 오류 메시지를 정리해 프론트엔드와 백엔드 협업 효율을 높였습니다.
 
-### Future Open Source Backend Intern - OSS Automation Lab
+### Future Open Source Contributor Intern - OSS Collaboration Lab
 
 - **Period:** 2025.07 - 2025.12
-- GitHub Actions를 활용해 테스트와 배포 과정을 자동화하는 실습형 인턴십을 수행했다고 가정했습니다.
-- Node.js REST API 서버와 MySQL 기반 데이터 저장 구조를 설계했습니다.
-- Markdown 문서, issue template, pull request template을 정리해 협업 흐름을 개선했습니다.
-
-## Professional Experience
-
-### 진진시스템(주) - Software Developer
-
-- **Period:** 2024.11 - Present
-- 루지, 줄넘기, 승마, 봅슬레이/스켈레톤 참가신청 사이트 개발 및 운영 배포를 수행했습니다.
-- JSP 공통 레이아웃에 Vue.js 컴포넌트를 결합하여 기존 서비스 스타일을 유지하면서 신규 기능을 추가했습니다.
-- 종목별 신청 구조를 분석해 대회, 참가자, 장비, 결제, 승인 흐름을 데이터베이스와 API 중심으로 설계했습니다.
-- 이니시스 결제 모듈을 연동하고 결제 성공/실패 내역을 Oracle DB에 저장해 운영자가 확인할 수 있도록 구현했습니다.
-
-### 아이티엠커뮤니케이션(주) - Software Developer
-
-- **Period:** 2021.06 - 2023.11
-- 오스템임플란트 V-Ceph 9.0 개발에 참여했습니다.
-- 치과의료 프로그램의 데스크 업무 화면과 진료사진 편집 관련 기능을 개발했습니다.
-- Vue 3, Composition API, DevExtreme 기반 사내 업무 시스템 화면을 개발했습니다.
-- Option API로 작성된 화면을 Composition API 구조로 전환했습니다.
-
-### 주식회사유진솔루션 - Software Developer
-
-- **Period:** 2019.01 - 2021.05
-- 실시간 데이터 소켓 통신, 시리얼 통신, REST 통신 기능을 개발했습니다.
-- MVVM 패턴을 적용해 이벤트 담당 서버 구조를 개선하고 의존성을 분리했습니다.
-- ActiveMQ 기반 사내 프로토콜 체계를 재구성했습니다.
-- Node.js REST API 서버, 카카오 API 기반 SMS 시스템, 스케줄 시스템을 개발했습니다.
-- RTSP/RTP 프로토콜 기반 CCTV 모니터링 프로그램 QA를 수행했습니다.
+- GitHub issue, branch, pull request, code review 과정을 실습하는 오픈소스 인턴십을 수행했다고 가정했습니다.
+- Markdown 기반 문서와 README를 개선해 신규 기여자가 프로젝트를 쉽게 이해하도록 정리했습니다.
+- GitHub Actions를 사용해 기본 테스트와 정적 페이지 배포 흐름을 자동화했습니다.
 
 ## Project Experience
 
-### Competition Registration Platform Renewal
+### Smart Study Planner
 
-- **Type:** Web Service Development
-- **Tech Stack:** Vue.js, JSP, Spring, Oracle, Inicis Payment
+- **Description:** 학생의 과제, 시험, 개인 학습 일정을 한 곳에서 관리하는 웹 서비스입니다.
+- **Role:** Full-Stack Developer
+- **Tech Stack:** Vue.js, Node.js, REST API, MySQL, GitHub Pages
 - **Highlights:**
-  - 종목별 참가 유형에 따라 다른 입력폼이 표시되도록 Vue.js 화면을 설계했습니다.
-  - 개인/단체/학년별 참가 정보를 구분하고 입력값 검증을 강화했습니다.
-  - 운영 배포 후 오류 대응과 엑셀 다운로드 포맷 정리까지 수행했습니다.
+  - 일정 등록, 우선순위 분류, 마감일 알림 화면을 Markdown 문서로 먼저 설계했습니다.
+  - REST API 명세를 작성하고 프론트엔드 화면과 백엔드 데이터를 연결했습니다.
+  - GitHub repository에 issue와 pull request 기록을 남겨 협업 과정을 관리했습니다.
 
-### Event Server Refactoring
+### OSS Portfolio Generator
 
-- **Type:** Backend and Desktop System Refactoring
-- **Tech Stack:** C#, WPF, MVVM, Socket, ActiveMQ
+- **Description:** Markdown 이력서와 프로젝트 기록을 정적 웹페이지로 변환해 주는 가상 포트폴리오 도구입니다.
+- **Role:** Project Lead
+- **Tech Stack:** Markdown, GitHub Pages, JavaScript
 - **Highlights:**
-  - socket + callback + bubbling 구조를 event aggregator 기반 구조로 개선했습니다.
-  - MVVM 패턴 적용 후 화면과 통신 로직의 의존성을 줄였습니다.
-  - 실시간 이벤트에 따른 대응 프로세스를 재정리했습니다.
+  - Markdown 문서를 사용해 이력서, 프로젝트, 자격증, 수상 내역을 구조화했습니다.
+  - GitHub Pages를 통해 별도 서버 없이 정적 페이지를 배포했습니다.
+  - repository 주소와 배포 주소를 구분해 문서화하는 흐름을 정리했습니다.
 
-### MyLib
+### Campus API Playground
 
-- **Type:** Personal Library Project
-- **Link:** [github.com/ahnharam/MyLib](https://github.com/ahnharam/MyLib)
+- **Description:** 강의, 공지, 일정 데이터를 API 형태로 조회하는 학습용 백엔드 프로젝트입니다.
+- **Role:** Backend Developer
+- **Tech Stack:** Node.js, Express, MySQL, GitHub Actions
 - **Highlights:**
-  - 반복적으로 사용하는 개발 지식과 코드를 정리하는 개인 라이브러리 프로젝트입니다.
-  - 앞으로 WPF, Vue.js, API 서버 개발 경험을 축적하는 공개 포트폴리오로 발전시키는 것을 목표로 합니다.
+  - 데이터베이스 테이블을 설계하고 API endpoint를 기능별로 분리했습니다.
+  - 테스트 데이터를 이용해 목록 조회, 상세 조회, 검색 기능을 구현했다고 가정했습니다.
+  - README에 실행 방법, API 예시, 배포 계획을 정리했습니다.
 
 ## Certifications
 
-- 정보처리산업기사 - 2021.08
-- 전자기기기능사 - 2018.07
-- 정보처리기능사 - 2015.11
+- Future Goal: 정보처리기사
 - Future Goal: SQLD
 - Future Goal: GitHub Foundations Certification
+- Future Goal: AWS Certified Cloud Practitioner
 
 ## Awards
 
-- 2026 Future Graduation Project Excellence Award - 업무 시스템 자동화 플랫폼
-- 2026 Future OSS Practice Portfolio Award - GitHub Pages 기반 Future CV
-- 2025 Future Internal Service Improvement Award - 참가신청 플랫폼 운영 개선
+- 2026 Future Graduation Project Excellence Award - Smart Study Planner
+- 2026 Future OSS Practice Portfolio Award - GitHub Pages 기반 포트폴리오
+- 2025 Future Campus Software Challenge Award - 학습 일정 관리 서비스
 
 ## Skills
 
-- **Languages:** C#, JavaScript, Node.js, HTML, CSS
-- **Frontend:** Vue.js, Composition API, DevExtreme, Wijmo, Bootstrap
-- **Backend:** Spring Framework, Spring MVC, JSP, REST API, WCF, JDBC
-- **Desktop:** WPF, MVVM, Prism, DevExpress, .NET
-- **Database:** Oracle, MySQL, ERD, eXERD
-- **Integration:** Serial Communication, RS-485, SMTP, RTSP/RTP, Kakao API, Inicis Payment
-- **Collaboration:** Git, GitHub, GitLab, Markdown Documentation
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frontend:** HTML, CSS, Vue.js, Responsive UI
+- **Backend:** Node.js, REST API, Database Design
+- **Tools:** Git, GitHub, GitHub Pages, GitHub Actions, Markdown
+- **Collaboration:** Issue Tracking, Pull Request, Code Review, Documentation
 
 ## References
 
@@ -148,5 +114,5 @@ WPF 기반 PC 애플리케이션, 서버 통신, Vue.js 프론트엔드, Spring/
 
 ## Closing Statement
 
-저는 이미 운영 서비스에서 여러 기술을 다뤄 본 경험을 바탕으로, 졸업 이후에는 더 넓은 사용자에게 안정적인 서비스를 제공하는 개발자가 되고 싶습니다.
-Future CV의 목표는 단순히 화려한 경력을 적는 것이 아니라, 실제 경험을 기반으로 더 나은 구조를 설계하고 꾸준히 성장하는 개발자의 방향을 분명히 하는 것입니다.
+이 Future CV는 제가 앞으로 어떤 개발자로 성장하고 싶은지 정리한 계획서입니다.
+졸업 시점에는 단순히 기능을 구현하는 것을 넘어, 문제를 구조화하고 동료와 협업하며 사용자에게 필요한 서비스를 끝까지 배포할 수 있는 개발자가 되고 싶습니다.
